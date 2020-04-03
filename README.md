@@ -3,6 +3,8 @@
 ## 概要
 C言語で作成したWindows向けポーカーゲーム。
 
+![ポーカー](https://github.com/handism/poker/blob/master/poker.png "サンプル")
+
 ## 機能
 - exeをダブルクリックで起動（要Windows）
 - ポーカーゲームが可能
